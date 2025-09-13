@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Image to PDF Converter</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 0; color: #333; }
+    h1 { color: #2c3e50; }
+    h2 { color: #34495e; }
+    p { margin-bottom: 15px; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: September 13, 2025</p>
+
+  <p>Thank you for using our <strong>Image to PDF Converter</strong> app. Your privacy is very important to us. 
+  This Privacy Policy explains how we handle your information.</p>
+
+  <h2>1. Data We Access</h2>
+  <p>Our app requires access to your device’s <strong>Photos/Media/Storage</strong> only for the purpose of selecting images and converting them into PDF files.</p>
+
+  <h2>2. Data Collection</h2>
+  <p>We do <strong>not</strong> collect, store, or share your personal data. All processing (image editing and conversion to PDF) happens locally on your device.</p>
+
+  <h2>3. Permissions Used</h2>
+  <ul>
+    <li><strong>Photos/Media/Storage Permission</strong>: Required to allow users to pick images from their gallery and to save the converted PDF file.</li>
+  </ul>
+
+  <h2>4. Data Sharing</h2>
+  <p>We do not share any information with third parties. Your data remains on your device at all times.</p>
+
+  <h2>5. Security</h2>
+  <p>Since no personal data is collected, you can use the app safely without worrying about data misuse.</p>
+
+  <h2>6. Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, you can contact us at:</p>
+  <p>Email: <a href="mailto:pratikbakde232@gmail.com">youremail@example.com</a></p>
+
+  <p>By using the app, you agree to this Privacy Policy.</p>
+</body>
+</html>
